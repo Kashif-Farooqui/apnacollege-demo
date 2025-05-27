@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my first get repository
+This is my first git repository
+Author-Kashif Farooqui.
